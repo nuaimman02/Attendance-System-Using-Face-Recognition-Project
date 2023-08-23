@@ -5,4 +5,12 @@
 - Lecturer: Dr. Hazlina Hamdan
 - Link for Presentation Website: https://sites.google.com/view/csc3600project-facerecognition/home?authuser=1
 - Package used:
-- -
+  - cv2
+  - numpy
+  - os
+  - time
+  - csv
+  - win32com.client
+  - datetime
+  - streamlit
+  - pandas
