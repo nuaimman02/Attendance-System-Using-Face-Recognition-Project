@@ -1,0 +1,1 @@
+ streamlit run "C:\Users\User\Documents\Programming Codes\Python\PyCharmProject\pythonProject\CSC3600_AttendanceSystemProject\app.py" [ARGUMENTS]
