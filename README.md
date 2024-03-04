@@ -2,7 +2,6 @@
 - Project for CSC3600 AI Subject
 - Attendance System using Face Recognition Project
 - Implementing Computer Vision and Knowledge-based Systems in this project
-- Lecturer: Dr. Hazlina Hamdan
 - Link for Presentation Website: https://sites.google.com/view/csc3600project-facerecognition/home?authuser=1
 - Package used:
   - cv2
